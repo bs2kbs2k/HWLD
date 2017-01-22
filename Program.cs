@@ -10,6 +10,7 @@ namespace HWLD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
         }
     }
 }
